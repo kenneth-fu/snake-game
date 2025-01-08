@@ -56,5 +56,5 @@ The game is built using:
 ## Demo
 
 ### Gameplay Preview
-![Snake Game Gameplay](assets/game-play.gif)
+![Snake Game Gameplay](demo/game-play.gif)
 
